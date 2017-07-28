@@ -4,8 +4,8 @@
 #include <ArduinoOTA.h>
 
 // Replace with your network credentials
-const char* ssid = "TurkTelekom_Z4CXT";
-const char* password = "4EE4d643a68Cf";
+const char* ssid = ".........";
+const char* password = "..........";
 
 const int ESP_BUILTIN_LED = 2;
 
